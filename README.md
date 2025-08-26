@@ -60,10 +60,6 @@ The workflow includes:
   - Mean Absolute Error (MAE)  
   - R-squared (R²)  
 
-### 🔟 Results
-- The model explained a **good portion of variance** in house prices  
-- Predictions captured the relationship between house features and price  
-
 ---
 
 ## 🚀 Key Learnings
